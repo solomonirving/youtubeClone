@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/youtubeClone/static/js/main.1acfdf4e.chunk.js",
+    "main.js.map": "/youtubeClone/static/js/main.1acfdf4e.chunk.js.map",
+    "runtime-main.js": "/youtubeClone/static/js/runtime-main.8b90a46e.js",
+    "runtime-main.js.map": "/youtubeClone/static/js/runtime-main.8b90a46e.js.map",
+    "static/js/2.6911db76.chunk.js": "/youtubeClone/static/js/2.6911db76.chunk.js",
+    "static/js/2.6911db76.chunk.js.map": "/youtubeClone/static/js/2.6911db76.chunk.js.map",
+    "index.html": "/youtubeClone/index.html",
+    "precache-manifest.9b1d3f276a34ed89c7e8113aa8ffbb66.js": "/youtubeClone/precache-manifest.9b1d3f276a34ed89c7e8113aa8ffbb66.js",
+    "service-worker.js": "/youtubeClone/service-worker.js",
+    "static/js/2.6911db76.chunk.js.LICENSE.txt": "/youtubeClone/static/js/2.6911db76.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b90a46e.js",
+    "static/js/2.6911db76.chunk.js",
+    "static/js/main.1acfdf4e.chunk.js"
+  ]
+}
